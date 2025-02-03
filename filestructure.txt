@@ -1,0 +1,41 @@
+|-- .env
+|-- .gitignore
+|-- eslint.config.js
+|-- index.html
+|-- package-lock.json
+|-- package.json
+|-- public
+    |-- vite.svg
+|-- README.md
+|-- src
+    |-- api
+        |-- apiNews.js
+    |-- App.jsx
+    |-- assets
+        |-- react.svg
+    |-- components
+        |-- Header
+            |-- Header.jsx
+            |-- styles.module.css
+        |-- Images
+            |-- Image.jsx
+            |-- styles.module.css
+        |-- NewsBanner
+            |-- NewsBanner.jsx
+            |-- styles.module.css
+        |-- NewsItem
+            |-- NewsItem.jsx
+            |-- styles.module.css
+        |-- NewsList
+            |-- NewsList.jsx
+            |-- styles.module.css
+    |-- helpers
+        |-- formatDate.js
+        |-- formatTimeAgo.js
+    |-- index.css
+    |-- main.jsx
+    |-- pages
+        |-- Main
+            |-- Main.jsx
+            |-- styles.module.css
+|-- vite.config.js
